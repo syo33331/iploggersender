@@ -1,7 +1,7 @@
 Main.Go
-Submit your request. Recommended for people who are warned that iplogger is a bot and want to change their number to ○○kenkenru.
+Submit your request. Recommended for people who are warned that iplogger is a bot and want to change their number to ○○accessed.
 
-ipsender.go
+headersender.go
 Trust requests without authorization as a bot.
 
 go to install
